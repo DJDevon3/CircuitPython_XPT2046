@@ -8,7 +8,7 @@ Designed for use with the 4.0" 480x320 [ST7796S display with integrated XPT2046 
 
 https://github.com/DJDevon3/CircuitPython_XPT2046/assets/49322231/c6663112-28fd-48e9-8e23-24849eb5970d
 
-I designed a Feather adapter board that would interface with the display board.
+I designed a Feather adapter PCB that interfaces with the display board.
 
 ![IMG_1386](https://github.com/DJDevon3/CircuitPython_XPT2046/assets/49322231/6d87d202-ea01-4226-895f-090a4c33be11)
 
