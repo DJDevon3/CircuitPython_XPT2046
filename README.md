@@ -4,6 +4,7 @@ Circuit Python SPI Driver for XPT2046 Touch Screen Controller
 Designed for use with the 4.0" 480x320 [ST7796S display with integrated XPT2046 Touch controller & SDCard Reader](https://www.aliexpress.us/item/2251832829271342.html) from AliExpress
 - It's actually a 3.5" display on a 4" PCB... marketing.
 - Even though I'm using it with an ST7796S display you can use this driver for many different displays that use this touch controller chip.
+- I also wrote a [Circuit Python ST7796 display driver](https://github.com/DJDevon3/CircuitPython_ST7796S)
 
 https://github.com/DJDevon3/CircuitPython_XPT2046/assets/49322231/c6663112-28fd-48e9-8e23-24849eb5970d
 
